@@ -3,9 +3,9 @@
 <body>
 <script src="https://cdn.netpie.io/microgear.js"></script>
 <script>
-  const APPID = "Your App ID";
-  const KEY = "Your App Key";
-  const SECRET = "Your App Secret";
+  const APPID = "781de20e-5e45-41d5-b882-2ea30e83d70e";
+  const KEY = "q6Yj1JpCamox3o77NqtX3VkLC4YA4UL1";
+  const SECRET = "ioWNC)6uFK9_.bWjsAMVmyMqZRJoT-$d";
 
   const ALIAS = "HTML_web";         //  ชื่อตัวเอง
   const thing1 = "NodeMCU1";          //  ชื่อเพื่อนที่จะคุย
